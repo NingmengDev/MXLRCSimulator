@@ -1,0 +1,16 @@
+PODS:
+  - DOUAudioStreamer (0.2.15)
+  - Masonry (1.0.1)
+  - MBProgressHUD (1.0.0)
+
+DEPENDENCIES:
+  - DOUAudioStreamer
+  - Masonry
+  - MBProgressHUD
+
+SPEC CHECKSUMS:
+  DOUAudioStreamer: 14f217bab01b52171fc2bd7d96e1f8fdd50fce68
+  Masonry: a1a931a0d08870ed8ae415a2ea5ea68ebcac77df
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+
+COCOAPODS: 0.39.0

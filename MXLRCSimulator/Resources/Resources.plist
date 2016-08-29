@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>artist</key>
+		<string>凤凰传奇</string>
+		<key>file</key>
+		<string>凤凰传奇-待嫁的新娘</string>
+		<key>title</key>
+		<string>待嫁的新娘</string>
+	</dict>
+	<dict>
+		<key>artist</key>
+		<string>乌兰托娅</string>
+		<key>file</key>
+		<string>乌兰托娅-火红的萨日朗</string>
+		<key>title</key>
+		<string>火红的萨日朗</string>
+	</dict>
+	<dict>
+		<key>artist</key>
+		<string>高安&amp;黑鸭子</string>
+		<key>file</key>
+		<string>高安&amp;黑鸭子-红尘情歌</string>
+		<key>title</key>
+		<string>红尘情歌</string>
+	</dict>
+</array>
+</plist>
