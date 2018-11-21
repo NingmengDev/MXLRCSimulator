@@ -12,8 +12,8 @@
 - 歌词总体显示效果类似于天天动听
 
 # 效果图
+<img src="https://github.com/NingmengDev/MXLRCSimulator/blob/master/Screenshot/Simulator%20Screen%20Shot%2001.png" />   
 
-![](/Screenshot/Simulator Screen Shot 01.png)
-![](/Screenshot/Simulator Screen Shot 02.png)
-![](/Screenshot/Simulator Screen Shot 03.png)
+<img src="https://github.com/NingmengDev/MXLRCSimulator/blob/master/Screenshot/Simulator%20Screen%20Shot%2002.png" />   
 
+<img src="https://github.com/NingmengDev/MXLRCSimulator/blob/master/Screenshot/Simulator%20Screen%20Shot%2003.png" />   
